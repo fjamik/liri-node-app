@@ -30,5 +30,6 @@
 
 # Screenshot
 
-https://github.com/fjamik/liri-node-app/issues/1#issue-436417083
+![liri](https://user-images.githubusercontent.com/48258341/56620060-9902c800-65f5-11e9-9cb1-1bf529ea1d56.gif)
+
 https://user-images.githubusercontent.com/48258341/56620060-9902c800-65f5-11e9-9cb1-1bf529ea1d56.gif
