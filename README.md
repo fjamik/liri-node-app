@@ -27,3 +27,8 @@
 - This command used the omdb API. An axios.get sent the search request and the results were console.logged.
 #### do-what-it-says
 - This command pulled the spotify-this-song information from the local random.txt file.
+
+# Screenshot
+
+https://github.com/fjamik/liri-node-app/issues/1#issue-436417083
+https://user-images.githubusercontent.com/48258341/56620060-9902c800-65f5-11e9-9cb1-1bf529ea1d56.gif
